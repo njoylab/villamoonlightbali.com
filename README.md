@@ -2,9 +2,14 @@
 
 Welcome to the repository for the Villa Moonlight Bali landing page, which you can view live at [villamoonlightbali.com](https://villamoonlightbali.com). This repository contains the code for our static website, showcasing our beautiful villa in Bali.
 
+
+
 ## About The Site
 
 The Villa Moonlight Bali landing page is designed to offer visitors a glimpse into the serene and luxurious experience that our villa offers. The website features images of the villa, information about amenities and accommodations, and contact details for bookings and inquiries. It's a simple, elegant solution for online presence, reflecting the tranquil and inviting atmosphere of Villa Moonlight.
+
+
+![Moonlight Villa Bali](https://villamoonlightbali.com/images/about.webp "Moonlight Villa Bali")
 
 ## Getting Started
 
